@@ -89,7 +89,7 @@
         <div class="footer__left-info">
           Москва, БЦ &laquo;Лотос&raquo;, ул. Ленинская, 19<br />
           <a :href="'tel:' + globalVars.phoneNum">{{ globalVars.phoneNum }}</a> — Москва<br />
-          <a :href="'tel:' + + globalVars.phoneNum2">{{ + globalVars.phoneNum2 }}</a> — Владивосток<br />
+          <a :href="'tel:' + globalVars.phoneNum2">{{ globalVars.phoneNum2 }}</a> — Владивосток<br />
           <a href="mailTo:hello@estate.ru">hello@estate.ru</a>
         </div>
 
