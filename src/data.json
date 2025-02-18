@@ -1,0 +1,138 @@
+{
+    "ru": {
+        "headerMenu": [
+            "Недвижимость",
+            "Услуги",
+            "Блог",
+            "О компании"
+        ],
+        "headerSubmenu": [
+            "Жилая",
+            "Коммерческая",
+            "Инвестиционная",
+            "Эксклюзивная"
+        ],
+        "promoBlock": {
+            "title": "Доверие и сервисная модель — основные показатели успеха в работе компании",
+            "text": "Рынок недвижимости в 2025 году сталкивается с серьезными вызовами. Изменились ключевые тенденции и запросы инвесторов. Объективный подход к анализу рынка, детальное изучение перспектив объектов, эффективные бизнес-модели и подтвержденная ликвидность — всё это способствует сохранению и увеличению капитала наших инвесторов.",
+            "btnText": "Связаться напрямую",
+            "btnHref": "SomeHref",
+            "linkEdinHref": "SomeHref",
+            "instagrHref": "SomeHref",
+            "name": "Ярослав Попов",
+            "state": "СЕО Estate"
+        },
+        "investTitle": "Инвестиционный отдел",
+        "investSection": [
+            {
+                "imgSrc": "/src/assets/img/invest/01.png",
+                "instaHref": "SomeHref",
+                "linkEdinHref": "SomeHref",
+                "name": "Анна Васильева",
+                "state": "Операционный директор"
+            },
+            {
+                "imgSrc": "/src/assets/img/invest/02.png",
+                "instaHref": "SomeHref",
+                "name": "Елена Морозова",
+                "state": "Инвестиционный консультант"
+            },
+            {
+                "imgSrc": "/src/assets/img/invest/03.png",
+                "instaHref": "SomeHref",
+                "linkEdinHref": "SomeHref",
+                "name": "Мария Кузнецова",
+                "state": "Инвестиционный консультант"
+            },
+            {
+                "imgSrc": "/src/assets/img/invest/04.png",
+                "linkEdinHref": "SomeHref",
+                "name": "Алексей Смирнов",
+                "state": "Инвестиционный консультант"
+            }
+        ],
+        "marketingTitle": "Маркетинг",
+        "marketingSection": [
+            {
+                "imgSrc": "/src/assets/img/marketing/01.png",
+                "instaHref": "SomeHref",
+                "linkEdinHref": "SomeHref",
+                "name": "Дмитрий Иванов",
+                "state": "Руководитель отдела маркетинга"
+            },
+            {
+                "imgSrc": "/src/assets/img/marketing/02.png",
+                "instaHref": "SomeHref",
+                "name": "Ольга Соколова",
+                "state": "Главный редактор"
+            },
+            {
+                "imgSrc": "/src/assets/img/marketing/03.png",
+                "instaHref": "SomeHref",
+                "linkEdinHref": "SomeHref",
+                "name": "Сергей Петров",
+                "state": "Арт-директор"
+            },
+            {
+                "imgSrc": "/src/assets/img/marketing/04.png",
+                "linkEdinHref": "SomeHref",
+                "name": "Наталья Федорова",
+                "state": "Маркетолог"
+            }
+        ],
+        "footerCol1Title": "О компании",
+        "footerCol1Links": [
+            {
+                "href": "SomeHref",
+                "text": "О нас"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Команда"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Контакты"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Блог"
+            }
+        ],
+        "footerCol2Title": "Недвижимость",
+        "footerCol2Links": [
+            {
+                "href": "SomeHref",
+                "text": "Жилая"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Коммерческая"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Инвестиционная"
+            }
+        ],
+        "footerCol3Title": "Услуги",
+        "footerCol3Links": [
+            {
+                "href": "SomeHref",
+                "text": "По подбору недвижимости"
+            },
+            {
+                "href": "SomeHref",
+                "text": "Юридическое сопровождение"
+            }
+        ],
+        "copy": "© 2025 Estate. Все права защищены. При копировании материалов сайта ссылка на источник обязательна.",
+        "policy": "Политика конфиденциальности",
+        "terms": "Соглашение об использовании"
+    },
+    "globalVars": {
+        "tgSrc": "http://adr",
+        "wtspSrc": "http://adr2",
+        "phoneNum": "+7 999 854 85 85",
+        "phoneNum2": "+7 914 487 38 38"
+    }
+}
